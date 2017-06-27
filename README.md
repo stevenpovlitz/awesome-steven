@@ -1,5 +1,5 @@
 # awesome-steven
-> Delightful resources I've found online
+> Delightful resources I've found online, in the style of [this node](https://github.com/sindresorhus/awesome-nodejs) guide
 
 ---
 
