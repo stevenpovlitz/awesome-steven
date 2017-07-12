@@ -8,3 +8,5 @@
 [VimGenius](http://www.vimgenius.com/) - Interactive tutorial for important Vim commands, broken down into small levels
 
 [jtauber's hex guide](https://jtauber.github.io/articles/css-hexagon.html) - One surprisingly clever way to make hexagons in CSS with just one <div>
+
+[Curtis Larson on Github Pages](http://www.curtismlarson.com/blog/2015/04/12/github-pages-google-domains/) - One of the cleanest guides to using a free github personal website with Google Domains 
