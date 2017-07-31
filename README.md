@@ -1,4 +1,6 @@
 # awesome-steven
+
+## Links
 > Delightful resources I've found online, in the style of [this node](https://github.com/sindresorhus/awesome-nodejs) guide
 
 ---
@@ -16,34 +18,34 @@
 ## Syllabus
 > Some of my favorite business related books, and one lesson I learned from each
 
-* How to Win Friends and Influence People by Dale Carnegie
+**How to Win Friends and Influence People** by Dale Carnegie
 
-* * try to see things from the other person's point of view
+* try to see things from the other person's point of view
 
-* Seven Habits of Highly Effective People by Stephen Covey
+**Seven Habits of Highly Effective People** by Stephen Covey
 
-* * having clearly defined set of principles informs how one operates
+* having clearly defined set of principles informs how one operates
 
-* Think and Grow Rich by Napoleon Hill
+**Think and Grow Rich** by Napoleon Hill
 
-* * crystalize career and life goals into one actionable paragraph
+* crystalize career and life goals into one actionable paragraph
 
-* How to Relax by Thich Nhat Hanh
+**How to Relax** by Thich Nhat Hanh
 
-* * don't just do something, sit there
+* don't just do something, sit there
 
-* Getting Things Done by David Allen
+**Getting Things Done** by David Allen
 
-* * if it takes less than 2 minutes, do it now
+* if it takes less than 2 minutes, do it now
 
-* The Lean Startup by Eric Ries
+**The Lean Startup** by Eric Ries
 
-* * achieving failure is successfully impementing a bad plan
+* achieving failure is successfully impementing a bad plan
 
-* Zero to One by Peter Thiel
+**Zero to One** by Peter Thiel
 
-* * ask for the story behind a piece of advice
+* ask for the story behind a piece of advice
 
-* The Upstarts by Brad Stone
+**The Upstarts** by Brad Stone
 
-* * the people and execution more important than the idea
+* the people and execution more important than the idea
